@@ -1,0 +1,9 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/example/SolutionBenchmark.binarySearchSolveBenchmark
+inline,com/example/SolutionBenchmark.exponentialSearchSolveBenchmark
+inline,com/example/SolutionBenchmark.naiveSolveBenchmark
+inline,com/example/SolutionBenchmark.setup

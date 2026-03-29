@@ -1,0 +1,4 @@
+JMH S 23 com.example.MyBenchmark S 56 com.example.jmh_generated.MyBenchmark_testMethod_jmhTest S 10 testMethod S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 29 com.example.SolutionBenchmark S 78 com.example.jmh_generated.SolutionBenchmark_binarySearchSolveBenchmark_jmhTest S 26 binarySearchSolveBenchmark S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E M 1 9 inputFile 0 U 12 MILLISECONDS E E 
+JMH S 29 com.example.SolutionBenchmark S 83 com.example.jmh_generated.SolutionBenchmark_exponentialSearchSolveBenchmark_jmhTest S 31 exponentialSearchSolveBenchmark S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E M 1 9 inputFile 0 U 12 MILLISECONDS E E 
+JMH S 29 com.example.SolutionBenchmark S 71 com.example.jmh_generated.SolutionBenchmark_naiveSolveBenchmark_jmhTest S 19 naiveSolveBenchmark S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E M 1 9 inputFile 0 U 12 MILLISECONDS E E 
