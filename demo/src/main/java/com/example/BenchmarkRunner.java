@@ -21,10 +21,8 @@ public class BenchmarkRunner {
     }
 
     public static void main(String[] args) throws Exception {
-        // Group 1
         runGroup(new String[]{"big_huge_normal.in", "big_huge_random.in"}, "Big Huge Inputs");
 
-        // Group 2
         runGroup(new String[]{"pla10b.in", "pla10a.in"}, "PLA 10 Inputs");
     }
 }

@@ -1,4 +1,6 @@
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 
 public class Algo_test {
     public static void main(String[] args) {
@@ -8,7 +10,7 @@ public class Algo_test {
         }
 
         String inputFile = args[0];
-        try (BufferedReader br = new BufferedReader(new FileReader(inputFile))) {
+        try{
 
             // NAIVE
             int repeat = 10;
