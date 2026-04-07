@@ -14,7 +14,7 @@ public class Solution {
             }
         }
 
-        int n = Integer.parseInt(br. readLine());
+        int n = Integer.parseInt(br.readLine());
         Node head = null;
 
         int posters = 0;
